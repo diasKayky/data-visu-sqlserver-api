@@ -5,7 +5,7 @@
 1. Desenvolvimento da rota da API Flask que coleta os dados de POST e os armazena na base de dados do SQL Server através do SQLAlchemy.
 2. Criação da rota da API Flask que consulta os dados da database e plota os gráficos utilizando Plotly.
 3. Query SQL que cria a tabela categorias para posterior inner join.
-4. Em desenvolvimento: Regressão Logística que prediz a probabilidade do cliente comprar de novo com base nos dados coletados via API
+4. Em desenvolvimento: Regressão logística que prediz a probabilidade do cliente comprar de novo com base nos dados coletados via API.
 
 ##  💻 Desenvolvedor
 
